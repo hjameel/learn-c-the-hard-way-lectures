@@ -1,2 +1,2 @@
-CFLAGS=-Wall -g
+CFLAGS=-Wall -g -std=c18
 
